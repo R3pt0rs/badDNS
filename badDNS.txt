@@ -10,3 +10,4 @@
 127.0.0.1 qfkii.cultureunit.icu
 127.0.0.1 cultureunit.icu
 127.0.0.1 adblock.gjtech.net
+127.0.0.1 up2date.thesafersoftfinal.info
