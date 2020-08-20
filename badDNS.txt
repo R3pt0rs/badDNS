@@ -1,5 +1,12 @@
-www.chitlurkedoaks.cam
-xml.realtime-bid.com
-eu.dspmulti.com
-chitlurkedoaks.cam
-qfkii.cultureunit.icu
+# Title: R3pt0rs bad IP
+# Version: 20August2020v3
+# Expires: 7 days
+# Description: Just bad DSN entrie who asks you to install stuff like virus scanners and latest flash plugins and other annoyances.
+
+127.0.0.1 www.chitlurkedoaks.cam
+127.0.0.1 xml.realtime-bid.com
+127.0.0.1 eu.dspmulti.com
+127.0.0.1 chitlurkedoaks.cam
+127.0.0.1 qfkii.cultureunit.icu
+127.0.0.1 cultureunit.icu
+127.0.0.1 adblock.gjtech.net
